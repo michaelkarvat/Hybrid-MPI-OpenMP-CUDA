@@ -50,4 +50,4 @@ Capabilities demonstrated:
 ## Build
 
 ```bash
-- sbatch finalfromwsl 
+sbatch finalfromwsl 
