@@ -51,4 +51,3 @@ Capabilities demonstrated:
 
 ```bash
 - sbatch finalfromwsl 
-ד
